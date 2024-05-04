@@ -1,4 +1,5 @@
 # GPU_multiPass
+//Using C++ and OpenGL
 //Gaussian blur + Edge detection + Toon shading
 
 //pass 1 : 3D scene rendering
