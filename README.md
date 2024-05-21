@@ -13,7 +13,7 @@
 - press '1' -> 3D scene rendering
 - press '2' -> pass 1 + pass 5
 - press '3' -> pass 1 + pass 4 + pass 5
-- press 'g' -> add gaussian blur(pass 2 + pass 3)
+- press 'g' -> add or delete gaussian blur(pass 2 + pass 3) (toggle button!)
 <br/>
 
 - using two FBO
